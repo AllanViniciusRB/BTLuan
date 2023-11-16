@@ -6,6 +6,9 @@ body{
     background-color: #f7f7f7;
     color: #333;
 }
+main{
+    min-height: 500px;
+}
 .container{
     max-width: 1140px;
     margin: 0 auto;
@@ -94,7 +97,7 @@ a {
     color: #ffffff;
     border-radius: 15px;
     border: none;
-    width: 250px;
+    width: 450px;
     height: 40px;
     padding-left: 15px;
     background-color: #000000;
@@ -156,7 +159,7 @@ a {
     color: #ffffff;
     border-radius: 15px;
     border: none;
-    width: 250px;
+    width: 450px;
     height: 40px;
     padding-left: 15px;
     background-color: #000000;
@@ -307,7 +310,7 @@ h3 {
     background-color: #FF8C00;
     color: #fff;
     padding: 10px;
-    margin: 0;
+    margin-top: 50px;
     text-align: center;
     bottom: 0;
     width: 100%;
