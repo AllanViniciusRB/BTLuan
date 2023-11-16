@@ -1,9 +1,7 @@
 <?php
 require_once $_SERVER['DOCUMENT_ROOT'] . "/includes/cabecalho.php";
-
 ?>
 <main class="container box-center">
-
     <div class="container mt-5">
         <form>
             <div class="form-group">
@@ -20,6 +18,12 @@ require_once $_SERVER['DOCUMENT_ROOT'] . "/includes/cabecalho.php";
                 <label for="descricao">Descrição do Problema:</label>
                 <textarea class="form-control" id="descricao" rows="3" required></textarea>
             </div>
+
+            <div class="form-group">
+                <label for="email">Email:</label>
+                <input type="email" class="form-control" id="email" required>
+            </div>
+
 
             <button type="submit" class="btn btn-primary">Agendar</button>
         </form>

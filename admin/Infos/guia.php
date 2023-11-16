@@ -18,6 +18,7 @@ require_once $_SERVER['DOCUMENT_ROOT'] . "/includes/cabecalho.php";
 <body>
     <header>
     </header>
+    <div class="separador"></div>
     <div class="container">
     <h1>Manual do Usuário - BuscaTec</h1>
     <br><br>
@@ -106,6 +107,18 @@ require_once $_SERVER['DOCUMENT_ROOT'] . "/includes/cabecalho.php";
     </ul><br>
     <p>Esperamos que este manual facilite sua experiência no BuscaTec. Se tiver dúvidas adicionais, consulte nossa seção de suporte ou entre em contato conosco diretamente.</p>
     </div>
+    <div class="separador"></div>
+
+    <!-- Tutoriais para o Usuario -->
+
+    <div class="container">
+        <h2>Tutoriais para o Usuário</h2>
+
+        <div>
+            
+        </div>
+    </div>
+
 </body>
 
 </html>
