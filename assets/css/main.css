@@ -82,7 +82,6 @@ a {
     display: flex;
     flex-direction:column-reverse;
 }
-
 .telefone input {
     color: #ffffff;
     border-radius: 15px;
@@ -97,7 +96,7 @@ a {
     color: #ffffff;
     border-radius: 15px;
     border: none;
-    width: 450px;
+    width: 250px;
     height: 40px;
     padding-left: 15px;
     background-color: #000000;
@@ -159,7 +158,7 @@ a {
     color: #ffffff;
     border-radius: 15px;
     border: none;
-    width: 450px;
+    width: 250px;
     height: 40px;
     padding-left: 15px;
     background-color: #000000;

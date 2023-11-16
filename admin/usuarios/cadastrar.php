@@ -60,7 +60,7 @@ $usuarioController->cadastrarUsuario();
                     <input type="text" name="rua" id="rua" placeholder="RUA/AVENIDA">
                 </div>
                 <div class="numero">
-                    <input type="text" name="numero" id="numero" placeholder="Numero">
+                    <input type="number" name="numero" id="numero" placeholder="Numero">
                 </div>
                 <div class="cidade">
                     <input type="text" name="cidade" id="cidade" placeholder="CIDADE*">
